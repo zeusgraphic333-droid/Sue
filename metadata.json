@@ -1,0 +1,8 @@
+{
+  "name": "The Synesthesia of Salma",
+  "description": "A high-end experiential WebGL scrollytelling site foundational UI layer",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
